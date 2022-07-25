@@ -1,0 +1,23 @@
+.job-title {
+    font-weight: 700 !important;
+    white-space: normal;
+    word-break: break-word;
+    word-wrap: break-word;
+    color: #2d2d2d;
+    fill: #2d2d2d;
+}
+
+.company {
+    font-size: 0.875rem !important;
+    line-height: 1.25rem;
+}
+
+.duration {
+    color: #6f6f6f;
+    font-size: 0.875rem !important;
+}
+
+.responsibilites {
+    white-space: pre;
+    font-size: 14px !important;
+}
