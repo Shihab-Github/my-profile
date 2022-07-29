@@ -14,4 +14,4 @@ Since this is a pwa, so in order to check it locally we need to create a build v
   
 This pwa follows the cache first strategy in order to cache static assets. There is also a rule written to cache api responses dynamically in service-worker.ts file. The cache name is 'profile-api-response'
 
-This app uses firestore as backend.
+This app uses firestore as backend. 
